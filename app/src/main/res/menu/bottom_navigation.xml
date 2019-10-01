@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_water"
+        android:icon="@drawable/ic_water_24dp"
+        android:title="water"
+        />
+    <item
+        android:id="@+id/nav_rock"
+        android:icon="@drawable/ic_rock_24dp"
+        android:title="rock"
+
+        />
+    <item
+        android:id="@+id/nav_fire"
+        android:icon="@drawable/ic_fire_24dp"
+        android:title="fire"
+        />
+    <item
+        android:id="@+id/nav_wind"
+        android:icon="@drawable/ic_wind_24dp"
+        android:title="wind"
+        />
+</menu>
